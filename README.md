@@ -6,6 +6,6 @@
      <link rel="stylesheet" href="./stylle.css/>
   </head>
   <body>
-      <h1>introducing-css</h1>  
+      <h1>CSS External</h1>  
   </body>
 </html>
